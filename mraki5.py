@@ -1,31 +1,31 @@
-# CAR_DETAILS = {
+CAR_DETAILS = {
 
-#     "brand": "Ford",
+    "brand": "Ford",
 
-#     "model": "jason",
+    "model": "jason",
 
-#     "year": 1964
+    "year": 1964
 
-# }
+}
 
-# CAR_DETAILS.pop("model")
+CAR_DETAILS.pop("model")
 
-# print(CAR_DETAILS)
+print(CAR_DETAILS)
 
 
-# person = {
+person = {
 
-#     'name': 'jack',
+    'name': 'jack',
 
-#     'id': 22,
+    'id': 22,
 
-#     'place': 'dharamsala'
+    'place': 'dharamsala'
 
-# }
+}
 
-# person.popitem()
+person.popitem()
 
-# print(person)
+print(person)
 
 
 person = {
